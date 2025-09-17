@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "header-train",
+      "description": "A scenic view of a train traveling through mountains, to be used in the header.",
+      "imageUrl": "https://picsum.photos/seed/railmitra/1600/400",
+      "imageHint": "indian train"
+    }
+  ]
+}
